@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Stefano!
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Python, Django and Django REST Framework
+- 👀 I’m interested in web development and game development
+- 🌱 I’m currently learning lua language and love2d framework
 
 <!---
 spizzo88/spizzo88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
