@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Stefano!
-- 👀 I’m interested in web development and database engineering
-- 🌱 I’m currently learning python, mysql and Django web framework
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning python, Django and Django REST framework.
 
 <!---
 spizzo88/spizzo88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
